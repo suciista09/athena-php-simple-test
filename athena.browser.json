@@ -8,7 +8,7 @@
   },
 
   "urls" : {
-    "/" : "http://www.olx.co.id",
+    "/" : "http://www.olx.com.ar",
     "registration" : "/masuk/daftar"
   }
 }
